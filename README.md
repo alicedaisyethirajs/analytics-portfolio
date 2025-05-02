@@ -19,13 +19,14 @@ This project is a deep dive into retail store order data using SQL and Python (J
 
 What's Inside
 
-retail_store_orders.sql A set of clean, well-structured SQL queries that perform:
+retail_store_orders.sql - A set of clean, well-structured SQL queries that perform:
 
 Data cleaning and preprocessing
 Exploratory analysis
 KPI extraction (e.g. total revenue, average basket size)
 Customer segmentation and product-level insights
-retail_store_orders.ipynb A Jupyter Notebook that:
+
+retail_store_orders.ipynb - A Jupyter Notebook that:
 
 Connects to the database
 Runs and explains the SQL queries
